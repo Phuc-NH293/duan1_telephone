@@ -2163,6 +2163,34 @@ width: 100%;
 .dropdown-menu li:hover {
   background-color: #f2f2f2;
 }
+.container34 {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Tùy chỉnh CSS cho phần thông tin sản phẩm */
+.product-info {
+  column-count: 2;
+  column-gap: 20px;
+}
+
+.specification-item {
+  margin-bottom: 10px;
+}
+
+.specification-item label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.specification-item span {
+  display: block;
+}
 
 /*=========================================================
 	13 -> RESPONSIVE
