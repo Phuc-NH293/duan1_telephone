@@ -1533,6 +1533,7 @@ textarea.input {
 }
 
 .product-details .add-to-cart .add-to-cart-btn {
+  width: 100%;
   position: relative;
   border: 2px solid transparent;
   height: 40px;
@@ -2165,7 +2166,7 @@ width: 100%;
 }
 .container34 {
   max-width: 800px;
-  margin: 20px auto;
+  margin: 20px 240px;
   background-color: #fff;
   padding: 20px;
   border-radius: 10px;
